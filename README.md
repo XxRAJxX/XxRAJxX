@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @XxRAJxX
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, MySQL
+- 🌱 I’m currently learning c, c++
+- 🌿 I'm fluent with python, MySQL
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me good luck doing that
 
